@@ -1,1 +1,1 @@
-Adds visible gloves/gauntlets to 3d armor.
+ARMOR gloves/gauntlets fully compatible with all engines
