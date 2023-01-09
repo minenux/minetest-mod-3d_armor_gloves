@@ -2,7 +2,7 @@
 -- Intllib
 local S
 if minetest.get_translator ~= nil then
-	S = minetest.get_translator("ethereal") -- 5.x translation function
+	S = minetest.get_translator("3d_armor_gloves") -- 5.x translation function
 else
 	if minetest.get_modpath("intllib") then
 		dofile(minetest.get_modpath("intllib") .. "/init.lua")
