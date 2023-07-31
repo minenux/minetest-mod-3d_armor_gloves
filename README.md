@@ -24,9 +24,9 @@ It can be downloade from
 * https://codeberg.org/minenux/minetest-mod-3d_armor_gloves
 
 This mod was merged and integrated to the 3d_armor mod of minenux:
-* https://codeberg.org/minenux/minetest-mod-3d_armor/commit/8f264f90d8902e80544e488fcddb48c669658542
-* https://github.com/minenux/minetest-mod-3d_armor/commit/8f264f90d8902e80544e488fcddb48c669658542
-* https://gitlab.com/minenux/minetest-mod-3d_armor/commit/8f264f90d8902e80544e488fcddb48c669658542
+* https://codeberg.org/minenux/minetest-mod-3d_armor/commit/353daadc6256be2166f2819f0b9d027be5728989
+* https://github.com/minenux/minetest-mod-3d_armor/commit/353daadc6256be2166f2819f0b9d027be5728989
+* https://gitlab.com/minenux/minetest-mod-3d_armor/commit/353daadc6256be2166f2819f0b9d027be5728989
 
 #### Compatibility
 
