@@ -24,6 +24,9 @@ end
 
 if minetest.global_exists("armor") and armor.elements then
 	table.insert(armor.elements, "hands")
+else
+	minetest.log("warning","[3d_armor_globes] loaded but unused, no 3d_armor mod detected")
+	return
 end
 
 -- Regisiter Gloves/Gauntlets
